@@ -19,4 +19,3 @@ for i in d:
     if(i<=a):
         c+=1
 print(c)
-            
